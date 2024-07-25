@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Ruiz
-- 👀 I’m interested in coding in web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning how to use a more recent version of React Framework
 - 💞️ I’m looking to collaborate on creating new and exiting designs for web development
 - 📫 How to reach me ...
