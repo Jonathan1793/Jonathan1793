@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
       Email: Jonathan.ruiz.1793@gmail.com
-      LinkedIn: https://www.linkedin.com/in/jonathan-ruiz-3aa86214a/
+      LinkedIn: https://www.linkedin.com/in/jonathanruizzavala/
 
 <!---
 Jonathan1793/Jonathan1793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
